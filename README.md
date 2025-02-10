@@ -38,18 +38,18 @@
 
 ## 🌟 Featured Projects
 
-[![React Fitness App](https://github-readme-stats.vercel.app/api/pin/?username=shensandaru&repo=FITPRO-GYM&theme=tokyonight)](https://github.com/shensandaru/FITPRO-GYM)
-[![Employee Records](https://github-readme-stats.vercel.app/api/pin/?username=shensandaru&repo=Employee-record-management-system&theme=tokyonight)](https://github.com/shensandaru/Employee-record-management-system)
+[![React Fitness App](https://github-readme-stats.vercel.app/api/pin/?username=ASbraker&repo=FITPRO-GYM&theme=tokyonight)](https://github.com/ASbraker/FITPRO-GYM)
+[![Employee Records](https://github-readme-stats.vercel.app/api/pin/?username=ASbraker&repo=Employee-record-management-system&theme=tokyonight)](https://github.com/ASbraker/Employee-record-management-system)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shensandaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASbraker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Shen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shensandaru&show_icons=true&theme=tokyonight&hide_border=true)
+![Asiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASbraker&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shensandaru&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASbraker&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -74,6 +74,6 @@
   
 ### 💡 "Building the future, one commit at a time" 
 
-<img src="https://komarev.com/ghpvc/?username=shensandaru&color=blueviolet&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=ASbraker&color=blueviolet&style=flat-square">
 
 </div>
